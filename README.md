@@ -1,7 +1,7 @@
 # Kinds-of-Multiplier
 including 7 basic multiplier
 
-/*********************************************************/
+*********************************************************
 1.multiplier0.v is a 8bit unsigned shift multiplier (8 period)
 2.multiplier1.v is a unsigned shift multiplier (operating period according to the minimum number/less than 8 period)
 3.multiplier2.v is a pipeline 8bit unsigned multiplier 
@@ -13,7 +13,7 @@ including 7 basic multiplier
 lut256.v is a lookup table for multiplier6.v
 // 012345 is unsigned multiplier.// 67 is signed multiplier.//
 
-/*********************************************************/
+*********************************************************
 1.multiplier0.v 是8位无符号位移乘法器（8个运算周期）
 2.multiplier1.v 是无符号位移乘法器（运算周期根据乘数与被乘数中最小的数决定/小于8个周期）
 3.multiplier2.v 是8位无符号流水线乘法器
